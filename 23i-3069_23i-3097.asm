@@ -1,15 +1,6 @@
 ﻿
 
 
-; ==============================================================================
-;   BURHAN ASLAM & SHACE TARIQ
-;   23I - 3097 & 23I - 3069
-;   BS SE
-;   FAST National Univeristy of Computer and Emerging Scinces, Islamabad Campus.
-;   COAL Final Semester Project (FALL 2024)
-;   BRICK BREAKER
-;  =============================================================================
-
 
 
 
